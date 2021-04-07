@@ -8,6 +8,6 @@ More info about the dataset you can find [here](http://www3.dsi.uminho.pt/pcorte
 ## Group info
 Team 2, Data Analysis, January 2020
 
-Mastralexi Christina Maria
+[Mastralexi Christina Maria](https://github.com/cmastral)
 
 Mouratidis Anastasios
